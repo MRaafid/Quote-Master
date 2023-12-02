@@ -1,6 +1,6 @@
-## KnowledgeHut JavaScript Starter Template
+## Quote Master
 
-This template uses Parcel bundler. You can build your website in the src/ folder. Please all JavaScript in the src/js folder and all stylesheets in the src/css folder.
+it uses timer function for display quotes in typewriter format
 
 **Instructions**
 
